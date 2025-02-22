@@ -4,7 +4,7 @@
 ## **Project Overview**  
 This project analyzes global billionaire statistics, examining wealth distribution, industry trends, and self-made vs. inherited wealth patterns. The goal is to provide insights into how wealth is accumulated and distributed across different sectors and regions.  
 
-🔗 **Dataset Source & Credits:** [Billionaires Statistics Dataset - Kenji Explains](https://www.youtube.com/watch?v=aUMEx4in2iU)  
+**Dataset Source & Credits:** [Billionaires Statistics Dataset - Kenji Explains](https://www.youtube.com/watch?v=aUMEx4in2iU)  
 
 ---
 
