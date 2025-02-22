@@ -25,21 +25,21 @@ This project analyzes global billionaire statistics, examining wealth distributi
  **2. Data Analysis**  
 
 - ### **Top 10 Wealthiest People**  
-- **Bernard Arnault & family** leads with **$211B**, followed by **Elon Musk** ($180B) and **Jeff Bezos** ($114B).  
-- The **total wealth of the top 10 billionaires is $1.17T**.  
+    - **Bernard Arnault & family** leads with **$211B**, followed by **Elon Musk** ($180B) and **Jeff Bezos** ($114B).  
+    - The **total wealth of the top 10 billionaires is $1.17T**.  
 
 - ### **Country with the Most Billionaires**  
-- **United States** dominates with **$3.14T** in billionaire wealth.  
-- **China** follows with **$901.7B**, while **France, India, and Germany** also contribute significantly.  
+    - **United States** dominates with **$3.14T** in billionaire wealth.  
+    - **China** follows with **$901.7B**, while **France, India, and Germany** also contribute significantly.  
 
 - ### **Wealth Distribution by Industry**  
-- **Technology** is the most lucrative industry, housing **$1.3T** in billionaire wealth.  
-- **Fashion & Retail** ($1.16T) and **Finance & Investments** ($882B) also rank high.  
-- **Industries like Energy, Healthcare, and Mining** contribute comparatively lower amounts.  
+    - **Technology** is the most lucrative industry, housing **$1.3T** in billionaire wealth.  
+    - **Fashion & Retail** ($1.16T) and **Finance & Investments** ($882B) also rank high.  
+    - **Industries like Energy, Healthcare, and Mining** contribute comparatively lower amounts.  
 
 - ### **Self-Made vs. Inherited Wealth**  
-- **309 billionaires (65%) are self-made**, showing entrepreneurship plays a crucial role.  
-- **166 billionaires (35%) inherited their wealth**, indicating generational wealth transfer still holds significance.  
+    - **309 billionaires (65%) are self-made**, showing entrepreneurship plays a crucial role.  
+    - **166 billionaires (35%) inherited their wealth**, indicating generational wealth transfer still holds significance.  
 
 ![Billionaire Analysis Pivot Table](images/image1.png)
 
